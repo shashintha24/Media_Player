@@ -56,7 +56,7 @@ The latest version of the application can be downloaded from the Releases sectio
 
 After downloading the executable file:
 
-1. Run the MediaPlayer.exe file https://github.com/shashintha24/Media_Player/releases/download/
+1. Run the MediaPlayer.exe file [https://github.com/shashintha24/Media_Player/releases/download/](https://github.com/shashintha24/Media_Player/releases/tag/v1.0)
 2. Open a video or audio file
 3. Start playback
 
