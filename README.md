@@ -3,6 +3,7 @@
 Media Player is a lightweight desktop application designed for smooth playback of video and audio files. The application provides a simple and clean interface together with useful playback controls and keyboard shortcuts. It supports many common multimedia formats and includes features such as playlist management, subtitle support, audio visualization, and playback customization.
 
 The goal of this media player is to provide a fast and easy-to-use solution for playing local media files while offering essential advanced features.
+![Media Player Screenshot](src/Screenshot1.png)
 
 ---
 
